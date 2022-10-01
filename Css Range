@@ -1,3 +1,3 @@
-.range {
-  background-color: `rgb(232, 207,255)`;
+.range{
+  color: `rgb(232, 207,255)`;
 }

@@ -9,5 +9,5 @@
 }
 .modal .modalbody select, .modal .modalbody input[type=text], .modal .modalbody input.number{
   background:hsl(255deg 27% 19%);
-  color:rgb(232, 207, 255) 
+  color:rgb(232, 207, 255); 
 }

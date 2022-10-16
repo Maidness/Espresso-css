@@ -1,7 +1,7 @@
 .modal::-webkit-scrollbar-thumb{
   background-color:hsl(282deg 100% 87% / 75%);
 }
-.input:checked+.slider{
+input:checked+.slider{
   background-color:hsl(255deg 27% 19%);
 }
 .modal .modalbody .range{

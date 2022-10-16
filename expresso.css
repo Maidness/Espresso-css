@@ -4,3 +4,10 @@
 .input:checked+.slider{
   background-color:hsl(255deg 27% 19%);
 }
+.modal .modalbody .range{
+  background:hsl(255deg 27% 19%);
+}
+.modal .modalbody select, .modal .modalbody input[type=text], .modal .modalbody input.number{
+  background:hsl(255deg 27% 19%);
+  color:rgb(232, 207, 255) 
+}

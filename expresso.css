@@ -11,3 +11,10 @@ input:checked+.slider{
   background:hsl(255deg 27% 19%);
   color:rgb(232, 207, 255); 
 }
+.stats input, .ecpinput{
+  background:hsl(linear-gradient(to top, hsl(0deg 0% 0% / 50%) 0, hsla(200, 50%, 0%, 1) 20%, hsl(0deg 0% 0%) 60%, hsl(0deg 0% 0% / 50%) 100%));
+  box-shadow:hls(0 0 4px hsl(291deg 100% 84%));
+  color:hsl(296deg 100% 82% / 80%); 
+  text-shadow:hsl(0 0 7px hsl(200deg 80% 80% / 0%));
+  border-radius:15px;
+}

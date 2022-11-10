@@ -32,3 +32,15 @@ input:checked+.slider{
   text-shadow:0 0 7px hsl(331deg 100% 51%);
   border-radius:15px;
 }
+.changelog-new, .extrabutton{
+  border-radius:5px;
+}
+.changelog-new, .extrabutton{
+  border-radius:5px;
+}
+#overlay > div.followtools{
+  border-radius:5px;
+}
+.social i, .mobile-social i, .mobile-tools i, .stats i{
+  border-radius:5px;
+}

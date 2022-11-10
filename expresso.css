@@ -26,15 +26,13 @@ input:checked+.slider{
   border-radius:15px;
 }
 .frozenbg, .frozenbg:visited{
-  background: black;
-  box-shadow:0 0 6px hsl(282deg 80% 80%);
-  color:hsl(296deg 100% 82% / 80%); 
-  text-shadow:0 0 7px hsl(331deg 100% 51%);
-  border-radius:15px;
+    background: black;
+    box-shadow: 0 0 3px hsl(282deg 80% 80%);
+    color: hsl(296deg 100% 82% / 80%);
+    text-shadow: 0 0 7px hsl(0deg 0% 0%);
+    border-radius: 5px;
 }
-.changelog-new, .extrabutton{
-  border-radius:5px;
-}
+// Doing border radius things
 .changelog-new, .extrabutton{
   border-radius:5px;
 }

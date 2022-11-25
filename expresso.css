@@ -39,5 +39,5 @@ input:checked+.slider{
   border-radius:5px;
 }
 .social i, .mobile-social i, .mobile-tools i, .stats i{
-  border-radius:5px;
+  border-radius:3px;
 }

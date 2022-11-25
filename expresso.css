@@ -59,6 +59,10 @@ element.style{
 #overlay > div.followtools{
   border-radius: 10px;
 }
+
 .social i, .mobile-social i, .mobile-tools i, .stats i{
+  border-radius: 10px;
+}
+.followtools a.big{
   border-radius: 10px;
 }

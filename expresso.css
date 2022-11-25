@@ -26,11 +26,12 @@ input:checked+.slider{
   border-radius:15px;
 }
 .frozenbg, .frozenbg:visited{
-    background: black;
-    box-shadow: 0 0 3px hsl(282deg 80% 80%);
-    color: hsl(296deg 100% 82% / 80%);
-    text-shadow: 0 0 7px hsl(0deg 0% 0%);
-    border-radius: 5px;
+  background: black;
+  box-shadow: 0 0 3px hsl(282deg 80% 80%);
+  color: hsl(296deg 100% 82% / 80%);
+  text-shadow: 0 0 black;
+  border-radius: 15px;
+  font-family: Verdana;
 }
 .changelog-new, .extrabutton{
   border-radius:5px;

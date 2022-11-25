@@ -34,11 +34,11 @@ input:checked+.slider{
 }
 // Doing border radius things
 .changelog-new, .extrabutton{
-  border-radius:5px;
+  border-radius:15px;
 }
 #overlay > div.followtools{
-  border-radius:5px;
+  border-radius:15px;
 }
 .social i, .mobile-social i, .mobile-tools i, .stats i{
-  border-radius:5px;
+  border-radius:15px;
 }

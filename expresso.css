@@ -1,37 +1,43 @@
 /* Settings Section */
 
 .modal::-webkit-scrollbar-thumb{
-  background-color:hsl(282deg 100% 87% / 75%);
+  background-color: hsl(282deg 100% 87% / 75%);
 }
 input:checked+.slider{
-  background-color:hsl(255deg 27% 19%);
+  background-color: hsl(255deg 27% 19%);
 }
 .modal .modalbody .range{
-  background:hsl(255deg 27% 19%);
+  background: hsl(255deg 27% 19%);
 }
 .modal .modalbody select, .modal .modalbody input[type=text], .modal .modalbody input.number{
-  background:hsl(255deg 27% 19%);
-  color:rgb(232, 207, 255); 
+  background: hsl(255deg 27% 19%);
+  color: rgb(232, 207, 255); 
 }
 
 /* Ecp Section */
 
 .stats input, .ecpinput{
   background: black;
-  box-shadow:0 0 6px hsl(282deg 80% 80%);
-  color:hsl(296deg 100% 82% / 80%); 
+  box-shadow: 0 0 6px hsl(282deg 80% 80%);
+  color: hsl(296deg 100% 82% / 80%); 
   text-shadow: none;
-  border-radius:15px;
+  border-radius: 15px;
 }
 
 /* Buttons section */
 
 #player button, #respawn_actions button, .donate-btn{
   background: black;
-  box-shadow:0 0 6px hsl(282deg 80% 80%);
-  color:hsl(296deg 100% 82% / 80%); 
+  box-shadow: 0 0 6px hsl(282deg 80% 80%);
+  color: hsl(296deg 100% 82% / 80%); 
   text-shadow: none;
-  border-radius:15px;
+  border-radius: 15px;
+}
+
+/* Play button */ 
+
+element.style{
+ border-radius: 10px;
 }
 
 /* Ecp Background */
@@ -48,11 +54,11 @@ input:checked+.slider{
 /* Text Box Section */
 
 .changelog-new, .extrabutton{
-  border-radius:10px;
+  border-radius: 10px;
 }
 #overlay > div.followtools{
-  border-radius:10px;
+  border-radius: 10px;
 }
 .social i, .mobile-social i, .mobile-tools i, .stats i{
-  border-radius:10px;
+  border-radius: 10px;
 }

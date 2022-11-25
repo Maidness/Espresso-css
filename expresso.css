@@ -1,4 +1,3 @@
-//Settings Section
 .modal::-webkit-scrollbar-thumb{
   background-color:hsl(282deg 100% 87% / 75%);
 }
@@ -8,7 +7,6 @@ input:checked+.slider{
 .modal .modalbody .range{
   background:hsl(255deg 27% 19%);
 }
-//Ecp Section
 .modal .modalbody select, .modal .modalbody input[type=text], .modal .modalbody input.number{
   background:hsl(255deg 27% 19%);
   color:rgb(232, 207, 255); 
@@ -20,7 +18,6 @@ input:checked+.slider{
   text-shadow: none;
   border-radius:15px;
 }
-//Buttons when die
 #player button, #respawn_actions button, .donate-btn{
   background: black;
   box-shadow:0 0 6px hsl(282deg 80% 80%);
@@ -28,7 +25,6 @@ input:checked+.slider{
   text-shadow: none;
   border-radius:15px;
 }
-//Ecp Background
 .frozenbg, .frozenbg:visited{
     background: black;
     box-shadow: 0 0 3px hsl(282deg 80% 80%);
@@ -36,7 +32,6 @@ input:checked+.slider{
     text-shadow: 0 0 7px hsl(0deg 0% 0%);
     border-radius: 5px;
 }
-//Doing border radius things
 .changelog-new, .extrabutton{
   border-radius:5px;
 }
@@ -46,4 +41,3 @@ input:checked+.slider{
 .social i, .mobile-social i, .mobile-tools i, .stats i{
   border-radius:5px;
 }
-// Starblast LB 

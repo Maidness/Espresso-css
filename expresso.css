@@ -1,3 +1,18 @@
+/* Text Box Section */
+
+.changelog-new, .extrabutton{
+  border-radius: 10px;
+}
+#overlay > div.followtools{
+  border-radius: 10px;
+}
+.social i, .mobile-social i, .mobile-tools i, .stats i{
+  border-radius: 10px;
+}
+.followtools a.big{
+  border-radius: 10px;
+}
+
 /* Settings Section */
 
 .modal::-webkit-scrollbar-thumb{
@@ -54,19 +69,4 @@ element.style{
   text-shadow: 0 0 black;
   border-radius: 15px;
   font-family: Verdana;
-}
-
-/* Text Box Section */
-
-.changelog-new, .extrabutton{
-  border-radius: 10px;
-}
-#overlay > div.followtools{
-  border-radius: 10px;
-}
-.social i, .mobile-social i, .mobile-tools i, .stats i{
-  border-radius: 10px;
-}
-.followtools a.big{
-  border-radius: 10px;
 }

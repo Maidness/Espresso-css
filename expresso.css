@@ -94,3 +94,21 @@ element.style{
   color: hsl(205deg 100% 78%);
   border: 1.5px solid hsl(188deg 100% 85% / 85%);
 }
+.modal .modalbody span.region{
+  box-shadow: 0 0 4px hsl(282deg 80% 80% / 45%);
+  color: hsl(282deg 100% 82% / 80%);
+  border: 1px solid hsl(269deg 100% 72% / 85%);
+  background: #13061cbd;
+}
+.modal .modalbody span.region.active{
+  background: hsl(186deg 81% 11% / 20%);
+  box-shadow: 0 0 6px hsl(204deg 100% 55% / 15%);
+  color: hsl(205deg 100% 78%);
+  border: 1px solid hsl(188deg 100% 85% / 85%);
+}
+.modal .modalbody span.region:hover{
+  background: hsl(0deg 0% 8%);
+  box-shadow: 0 0 4px hsl(241deg 100% 78% / 65%);
+  color: hsl(241deg 100% 70%);
+  border: 1px solid hsl(241deg 100% 70%);
+}

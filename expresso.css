@@ -39,11 +39,6 @@ input:checked+.slider{
   border-radius: 15px;
 }
 
-/* LB Section Color */
-
-
-
-
 /* Play button */ 
 
 element.style{
@@ -69,7 +64,6 @@ element.style{
 #overlay > div.followtools{
   border-radius: 10px;
 }
-
 .social i, .mobile-social i, .mobile-tools i, .stats i{
   border-radius: 10px;
 }

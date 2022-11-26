@@ -22,6 +22,11 @@ input:checked+.slider{
   color: hsl(296deg 100% 82% / 80%); 
   text-shadow: none;
   border-radius: 15px;
+
+#player button:hover, #respawn_actions button:hover, .donate-btn:hover, .ecpbtn:hover{
+  background: hsl(0deg 0% 7%);
+  box-shadow: 0 0 6px hsl(241deg 100% 78%);
+  color: hsl(241deg 100% 78%);
 }
 
 /* Buttons section */
@@ -33,6 +38,11 @@ input:checked+.slider{
   text-shadow: none;
   border-radius: 15px;
 }
+
+/* LB Section Color */
+
+
+
 
 /* Play button */ 
 

@@ -90,7 +90,7 @@ element.style{
 
 .modal .modalbody .gmodes span.selected{
   background: hsl(186deg 79% 24% / 20%);
-  box-shadow: 0 0 6px hsl(204deg 100% 78%);
+  box-shadow: 0 0 6px hsl(204deg 100% 55%);
   color: hsl(205deg 100% 78%);
   border: 1.5px solid hsl(188deg 100% 85% / 85%);
 }

@@ -113,3 +113,21 @@ element.style{
   color: hsl(241deg 100% 70%);
   border: 1px solid hsl(241deg 100% 70%);
 }
+#connection_lost, #game_over, #adblocked_message{
+  color: hsl(296deg 100% 82% / 80%);
+}
+.stats{
+  font-size: .5em;
+  border: 2px solid hsl(296deg 100% 82% / 80%);
+  box-shadow: 0 0 15px hsl(200deg 50% 70%);
+  background: hsla(200, 50%, 10%, .5);
+  width: 600px;
+  padding: 0 10px;
+  margin: 10px auto;
+  color: hsl(241deg 100% 78%);
+  background: transparent;
+  box-shadow: 0 0 6px hsl(282deg 80% 80% / 25%);
+  color: hsl(296deg 100% 82% / 80%);
+  text-shadow: none;
+  border-radius: 15px;
+}

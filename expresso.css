@@ -135,3 +135,6 @@ element.style{
 .stats input, .ecpinput{
   margin: 22px;
 }
+element.style{
+  display: none;
+}

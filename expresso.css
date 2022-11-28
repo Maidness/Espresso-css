@@ -132,9 +132,10 @@ element.style{
   border-radius: 15px;
   border-bottom: 1px solid hsl(241deg 100% 78%);
 }
-.stats input, .ecpinput{
-  margin: 22px;
+/* This destroy u ECP Caution */
+#overlay > div.social > i.sbg.sbg-facebook{
+  display: none;
 }
-element.style{
+#overlay > div.social > i.sbg.sbg-twitter{
   display: none;
 }

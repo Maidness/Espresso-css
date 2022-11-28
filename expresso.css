@@ -139,3 +139,25 @@ element.style{
 #overlay > div.social > i.sbg.sbg-twitter {
     display: none;
 }
+
+#respawn > div.stats > i.fa.fa-facebook{
+  display: none;
+}
+
+#respawn > div.stats > i.fa.fa-twitter{
+  display: none;
+}
+
+#respawn > div.stats > i.fa.fa-vk{
+  display: none;
+}
+
+#respawn > div.stats > i.fa.fa-envelope{
+  display: none;
+}
+{
+  display: none;
+}
+#respawn > div.stats > input{
+  margin: 20px;
+}

@@ -155,9 +155,6 @@ element.style{
 #respawn > div.stats > i.fa.fa-envelope{
   display: none;
 }
-{
-  display: none;
-}
 #respawn > div.stats > input{
   margin: 20px;
 }

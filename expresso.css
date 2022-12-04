@@ -190,4 +190,23 @@ element.style{
 }
 #respawn > div.stats > input{
   background: #000000cf;
+  margin: 10px; 
+}
+#overlay > div.social > i.sbg.sbg-gears{
+  text-shadow: none;
+}
+#overlay > div.social > i.sbg.sbg-info{
+  text-shadow: none;
+}
+#continue_btn{
+  background: #0000008c;
+}
+#refresh_btn{
+  background: #0000008c;
+}
+#respawn_btn{
+  background: #0000008c;
+}
+#respawn > div.stats{
+  background: #0000008c;
 }

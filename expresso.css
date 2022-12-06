@@ -210,3 +210,15 @@ element.style{
 #respawn > div.stats{
   background: #0000008c;
 }
+/* Name Changes 1) Name 2) Color 3) ECP */
+#player > div.inputwrapper > input[type=text]{
+  text-shadow: none;
+}
+#player > div.inputwrapper > div > span{
+  border-radius: 33px;
+  margin: 1px;
+  height: 15px;
+}
+#player > div.inputwrapper > img{
+  left: 10px;
+}

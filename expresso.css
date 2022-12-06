@@ -155,12 +155,6 @@ element.style{
 #respawn > div.stats > i.fa.fa-envelope{
   display: none;
 }
-#overlay > div.social > i.sbg.sbg-info{
-  text-shadow: rgb(0 0 0) 0px 0px 4px;
-}
-#overlay > div.social > i.sbg.sbg-gears{
-  text-shadow: rgb(0 0 0) 0px 0px 4px;
-}
 #respawn > div.stats > div:nth-child(1){
   border-bottom: 1px solid hsl(270deg 50% 55%);
 }
@@ -192,12 +186,6 @@ element.style{
   background: #000000cf;
   margin: 10px; 
 }
-#overlay > div.social > i.sbg.sbg-gears{
-  text-shadow: none;
-}
-#overlay > div.social > i.sbg.sbg-info{
-  text-shadow: none;
-}
 #continue_btn{
   background: #0000008c;
 }
@@ -221,4 +209,20 @@ element.style{
 }
 #player > div.inputwrapper > img{
   left: 10px;
+}
+#player > div.inputwrapper{
+  background: linear-gradient(to top, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 7%, rgb(0, 0, 0) 95%, rgb(0, 0, 0) 90%);
+  border: 1px solid #ebd5ff8a;
+}
+#overlay > div.social > i.sbg.sbg-info{
+  color: rgb(232, 207, 255);
+  background: radial-gradient(at center center, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 150%);
+  box-shadow: rgb(232, 207, 255) 0px 0px 4px;
+  text-shadow: none;
+}
+#overlay > div.social > i.sbg.sbg-gears{
+  color: rgb(232, 207, 255);
+  background: radial-gradient(at center center, rgb(0, 0, 0) 0px, rgb(0, 0, 0) 150%);
+  box-shadow: rgb(232, 207, 255) 0px 0px 4px;
+  text-shadow: none;
 }

@@ -199,8 +199,6 @@ element.style{
   background: #0000008c;
 }
 /* Name Changes 1) Name 2) Color 3) ECP */
-#player input{
-  text-shadow: none;
 }
 #player > div.inputwrapper > div > span{
   border-radius: 33px;
@@ -239,8 +237,5 @@ element.style{
   box-shadow: none;
 }
 element.style{
-  text-shadow: none;
-}
-#player > div.inputwrapper > input[type=text]{
   text-shadow: none;
 }

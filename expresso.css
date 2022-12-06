@@ -236,3 +236,6 @@ element.style{
   box-shadow: rgb(232, 207, 255) 0px 0px 4px;
   text-shadow: none;
 }
+#player > div.inputwrapper{
+  box-shadow: none;
+}

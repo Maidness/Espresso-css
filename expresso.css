@@ -239,3 +239,9 @@ element.style{
 #player > div.inputwrapper{
   box-shadow: none;
 }
+element.style{
+  text-shadow: none;
+}
+#player > div.inputwrapper > input[type=text]{
+  text-shadow: none;
+}

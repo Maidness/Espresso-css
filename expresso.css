@@ -239,3 +239,265 @@ element.style{
 element.style{
   text-shadow: none;
 }
+
+/* fix from pix */
+#play {
+	border-radius: 6px;
+	color: #000000;
+	background: rgb(255, 190, 241);
+	background: linear-gradient(140deg, rgba(255, 190, 241, 1) 0%, rgba(181, 186, 255, 1) 100%);
+	box-shadow: 0 0 0 2px #000000;
+	-webkit-backdrop-filter: blur(0px);
+	backdrop-filter: blur(0px);
+	text-shadow: 0 0 30px #000000;
+}
+
+#nextMode {
+	color: #b5baff;
+	text-shadow: 0 0 7px #000000;
+}
+
+#prevMode {
+	color: #ffbef1;
+	text-shadow: 0 0 7px #000000;
+}
+
+.inputwrapper {
+	background: linear-gradient(to top, #000000 0%, #000000 7%, #000000 95%, #000000 90%);
+}
+
+#moddingspace {
+	color: #b5baff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #b5baff;
+	text-shadow: 0 0 10px #b5baff;
+}
+
+#donate {
+	color: #b5baff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #b5baff;
+	text-shadow: 0 0 10px #b5baff;
+}
+
+#rankings {
+	color: #b5baff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #b5baff;
+	text-shadow: 0 0 10px #b5baff;
+}
+
+#training {
+	color: #b5baff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #b5baff;
+	text-shadow: 0 0 10px #b5baff;
+}
+
+.changelog-new:nth-of-type(2)>*:first-of-type>*:first-of-type>*:first-of-type {
+	color: #ffbef1;
+}
+
+.changelog-new:nth-of-type(2)>*:nth-of-type(2) {
+	color: #ffbef1;
+}
+
+.changelog-new:first-of-type {
+	color: #ffbef1;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #ffbef1;
+	text-shadow: rgb(0 0 0) 0px 0px 3px;
+}
+
+.changelog-new:nth-of-type(3) {
+	color: #ffbef1;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #ffbef1;
+	text-shadow: rgb(0 0 0) 0px 0px 3px;
+}
+
+.community:first-of-type>*:first-of-type {
+	color: rgb(255, 190, 241);
+}
+
+.community:first-of-type>*:nth-of-type(2) {
+	color: rgb(255, 190, 241);
+}
+
+.community:nth-of-type(3)>*:first-of-type {
+	color: #ffbef1;
+}
+
+.community:nth-of-type(3)>*:nth-of-type(2) {
+	color: #ffbef1;
+}
+
+.community:nth-of-type(3)>*:nth-of-type(3) {
+	color: #ffbef1;
+}
+
+.community:nth-of-type(3)>*:nth-of-type(4) {
+	color: #ffbef1;
+}
+
+.changelog-new:nth-of-type(5) {
+	color: #ffbef1;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #ffbef1;
+	text-shadow: rgb(0 0 0) 0px 0px 3px;
+}
+
+.modal {
+	color: rgb(255, 190, 241);
+	background: linear-gradient(135deg, #000000 0, #000000 150%);
+	box-shadow: 0 0 4px #ffbef1;
+	text-shadow: 0 0 4px #ffbef1;
+	width: 800px;
+	max-height: 100%;
+	height: auto;
+	display: block;
+	top: 0px;
+}
+
+.loaderprogress {
+	background: #b5baff;
+}
+
+.gameloaderwrapper {
+	border: 2px solid #b5baff;
+	box-shadow: 0 0 4px #b5baff;
+}
+
+.textprogress {
+	color: #b5baff;
+	text-shadow: 0 0 10px #000000;
+}
+
+.header {
+	background: hsl(0deg 0% 0%);
+	border-bottom: 5px solid hsl(271deg 28% 59%);
+}
+
+.modaltitle {
+	color: rgb(232, 207, 255);
+	text-shadow: rgb(113 3 233 / 45%) 0px 0px 4px;
+}
+
+.modalbody {
+	text-shadow: rgb(113 3 233 / 45%) 0px 0px 4px;
+	color: #e8cfff;
+}
+
+.donate-btn {
+	color: #fff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 7px #000000;
+	text-shadow: 0 0 7px #000000;
+}
+
+#viewEcp {
+	color: #b5baff;
+	background: #b5baff;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+#ECPKey {
+	color: #b5baff;
+	background: #b5baff;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+#removeEcp {
+	color: #b5baff;
+	background: #b5baff;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+#continue_btn {
+	color: #ffbef1;
+	background: #ffbef1;
+	box-shadow: 0 0 4px #ffbef1;
+	text-shadow: 0 0 4px #ffbef1;
+}
+
+.stats {
+	border: 2px solid #ffbef1;
+	box-shadow: 0 0 15px #ffbef1;
+	background: #ffbef1;
+}
+
+.stats> :nth-child(3) {
+	color: #ffbef1;
+	background: #ffbef1;
+	border: 0 solid #ffbef1;
+	box-shadow: 0 0 6px #ffbef1;
+}
+
+#respawn_btn {
+	color: #ffbef1;
+	background: #ffbef1;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+#refresh_btn {
+	color: #ffbef1;
+	background: #b5baff;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+.stats {
+	border: 2px solid #ffbef1;
+	box-shadow: 0 0 15px #ffbef1;
+	background: #ffbef1;
+}
+
+#overlay {
+	color: #ffbef1;
+}
+
+.fa-twitter {
+	color: #ffbef1;
+	background: #b5baff;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+.fa-facebook {
+	color: #ffbef1;
+	background: #ffbef1;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+.fa-vk {
+	color: #ffbef1;
+	background: #ffbef1;
+	box-shadow: 0 0 7px #ffbef1;
+	text-shadow: 0 0 7px #ffbef1;
+}
+
+.fa-envelope {
+	color: #fff;
+	background: radial-gradient(ellipse at center, #000000 0, #000000 150%);
+	box-shadow: 0 0 7px #000000;
+	text-shadow: 0 0 7px #000000;
+}
+
+.stats>* {
+	border-bottom: 1px solid #b5baff;
+}
+
+.stats>* {
+	border-bottom: 1px solid #ffbef1;
+}
+
+.frozenbg {
+	background: #b5baff;
+	box-shadow: 0 0 6px #b5baff;
+	text-shadow: 0 0 7px #b5baff;
+}

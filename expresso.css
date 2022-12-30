@@ -352,11 +352,6 @@ element.style{
 	background: linear-gradient(135deg, #000000 0, #000000 150%);
 	box-shadow: 0 0 4px #ffbef1;
 	text-shadow: 0 0 4px #ffbef1;
-	width: 800px;
-	max-height: 100%;
-	height: auto;
-	display: block;
-	top: 0px;
 }
 
 .loaderprogress {
